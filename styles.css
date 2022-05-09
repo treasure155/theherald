@@ -1,0 +1,52 @@
+body {
+  background-color: #F8ECD1;
+}
+
+
+img:hover{
+background-color: blue;
+
+}
+h1{
+  color: blue;font-size: 200px;
+background: white;
+}
+
+h2 {
+  color: Brown;
+background: white;
+background-image: linear-gradient(Shade);
+}
+P {
+color: green; font-size: 20px;
+}
+
+#Class{
+
+font-size: 30px;
+}
+
+#bold{
+
+font-size: 30px;
+}
+#treasure{
+font-size: 40px;
+}
+#Key{
+font-size: 25px;
+font-style: italic;
+}
+#big{
+font-size: 30px
+}
+html, body {
+    min-height: 80%;
+}
+#treasure1{
+background-color: white
+}
+#headr{
+font-size: 35px;
+font-weight: 100px;
+}
